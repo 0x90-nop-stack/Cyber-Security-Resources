@@ -256,6 +256,13 @@ Cyber Insecurity (Neal Bridges)
 
 https://discord.gg/GQWU5G9
 
+Nahamsec
+
+https://discord.gg/QNwZN9Qvct
+
+TryHackMe
+
+https://discord.gg/63yt3YGENK
 
 ## Demonstrations
 
@@ -895,6 +902,35 @@ Threat Explainer: Supply Chain Attacks
 
 https://blogs.cisco.com/security/threat-explainer-supply-chain-attacks
 
+## THREAT INTELLIGENCE:
+
+Talos’ Reputation Center provides access to expansive threat data and related information.
+
+https://talosintelligence.com/reputation
+
+The Alien Labs® Open Threat Exchange® (OTX™)
+
+https://otx.alienvault.com/
+
+abuse.ch's main goal is to identify and track cyber threats, with a strong focus on malware and botnets.
+
+https://abuse.ch/#platforms
+
+PhishTool gives human analysts the power to reverse engineer phishing emails.
+
+https://www.phishtool.com/
+
+VirusShare.com is a repository of malware samples. (Hash searching)
+
+https://virusshare.com/
+
+List of IOCs, Blacklisted IP/Domains.
+
+https://threatfeeds.io/
+
+Upload and scan your file for viruses with 38 anti-malware engines. Check hashes, domains, IP and CVE.
+
+https://metadefender.opswat.com/
 
 ## Training and Courses
 
